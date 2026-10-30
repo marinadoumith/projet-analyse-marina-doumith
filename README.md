@@ -1,6 +1,6 @@
 # Projet 1 - Analyse des journaux d'un pare-feu
 
-**Auteur : NOM Prenom**
+**Auteur :   MARINA DOUMITH
 
 Analyse d'une semaine de connexions reseau (`data/logs_reseau.csv`) pour detecter des comportements suspects.
 
